@@ -83,7 +83,7 @@ A comprehensive **Full-Stack Web Application** for creating, managing, and parti
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/your-repo-url/polling-management-system.git  
+   git clone https://github.com/Subramanian7986/polling-management-system.git  
    cd polling-management-system  
    ```  
 
